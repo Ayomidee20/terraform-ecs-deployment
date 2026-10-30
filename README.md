@@ -1,4 +1,4 @@
-# DevOps Assessment: Node.js API on AWS ECS (Terraform)
+# Automated Container Deployment on AWS with Terraform and GitHub Actions
 
 This repository is a learning-focused, production-style DevOps project that demonstrates a modern workflow for building and deploying a simple Node.js API to AWS using **Docker**, **GitHub Actions**, **Amazon ECR**, **Terraform**, and **ECS Fargate**, fronted by an **Application Load Balancer**.
 
